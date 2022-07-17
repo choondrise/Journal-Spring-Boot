@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "journal-356521",
+  "private_key_id": "cb1e5d225befe429cfba97372e5fa5e9c4704fb7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC84t8/A93NSXSt\ngjikPfdmpiqyNazKUgX+bcfWGjflmtGKIg761ADWXcodII/AnJx97dZBpobGzTG8\ni1ON4D3ckiP0F0ss9W3jbFk7GDqu1xYx0NHfQ74NDbK0jxAbMXd5ETgbHTJBApzJ\nxof0diolGtDH1pDfRWTsBM6ywn5qB7GvGgbqNf6A54JUKdd3VFzdc0RmSDEff79C\nJLvoZSe8ooEiVZajALBB1kWJ9m3I5mEPs2aGhRX1Y/9iJU7C0KQZxQ+wPYd16eSj\n10LZrh88w5lgzr0SsuWY18gusK29104cf8QxW3t1749RcD7DzXzhTHaOEpu7kHFZ\nooo8N0EnAgMBAAECggEAItkMbPjOpAAoWZaL0qloCnUfrW8/qLgHSRCB7Ns7cs3k\nWMK91sLkQKhfEI6gVt3N9WG6xLPva6ARzAI8cRFs+FOx9GeTxACnvGyR7dgjg3xF\nKP2oqrM5zfi3/p3iT9IJg7mMi1wQmHPd71AEZzKhxeSznhrU8YxA+VZNuCcv4Wmm\nxy4ixqSjJa1FdNTMnTVIAmR6o0b6xaq91Lteh+WarjFEgAe5itezece43+eFRpl6\ntJB9p3O3+RBOR0Itnd0GtVBTTGqhIEwJs0rrRUcTU02Bhx5pSyYSUokYiJzZ4VKX\nKLY8vUxgbvPQtGH1aHPfbpakKMpzl4hxtnL9xAby8QKBgQDk2kUdEdaQMOG3SuUe\nLynqd1CkZCfyo5LMyUg8zEGuy6Nq+UojYAorCSo3pJDW9qGxVm8s9FMktiPQNuI8\nUaMRh6idbNe6CfCpiagAA+mMJkjRvshXoX1CS75+YQK7/DGktEUtwQWvig+IWqL3\n5KQJJ0Vxc8Z+k4e1ynLvDxvdPwKBgQDTSuoAobz/cf7+a5xOW/btzQDf/2GwJaK5\n3gVFDGzuAoy9KjRYCuRunq2mSNDYusr6lvZjnxTXjEV4X1vIhu4Vn33ZbCgixVG2\nQd7Vv61mFnDadqSs2JwP0egfp5TdiGLPIXCca1tpvHw0cGIP9kbSNgN9SpnEfDHz\nalSXJynaGQKBgBaPwjKMeKe8efQ1CQOByNMZsjSSvzF3mNhhm6KKzIrr/o9kRj/Y\njwgRHj1gFvtqUySFje5TpALBhiRX1NP3hGkNA72JZncr1bMRJCPkPtkXSSSMd3nU\nLOIlT4FsFPXtdgNz1kIdfm8A4Gkj7l8cBmP0oC8AJ/iAmOd+LviMd8XHAoGBALXa\npmiAzEA3hzbGu7Mdp/uoE/a2wQdwfQvoMTTqqt53R1aQepjEVzN2UxLpXQcMTiM7\nxzia9L9INYqS2FZQ+52UtiZp1mmG1vs82mOyI7XX3q3Iq5cwn7FmApksDQ5WkmSf\n7WJTbEwnM+eWSnBekTnfz0UI7iuUkRFmFQQ7auQRAoGBAIp8nsDt9poTq7m76kRQ\nc04rWgL/04hxjAaOlE/DJDpgD9+2CVPCj5c5SEWHdSNj5CSqBTSksKeYh76qxYy3\ntxa0ykqWcdNDUijfF9MQm4Znuhz0zATe9mpC/uqAewKPRIFUbrZfDLA5lcVvHWvc\n07OpCONyEBUhEKw8QC9tELQt\n-----END PRIVATE KEY-----\n",
+  "client_email": "choondrise@journal-356521.iam.gserviceaccount.com",
+  "client_id": "105514885167698680603",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/choondrise%40journal-356521.iam.gserviceaccount.com"
+}
